@@ -1,0 +1,14 @@
+layout_spectrum: 0.4949175603687763
+typography_spectrum: 0.2772589905653149
+color:
+  brandStrength: 0.9932758561335504
+  lightness: 0.7501359472516924
+  saturation: 0.9741857571061701
+  rhythmicContrast: 0.7101580379530787
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+name: CompuSolutionX
